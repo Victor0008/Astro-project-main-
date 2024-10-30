@@ -1,2 +1,0 @@
-Este é o Astro Project, site desenvolvido para ajudar iniciantes em astronomia!
-Aqui daremos um "start" na sua jornada para descobrir sobre o espaço e mais, aprenda com moderação!
