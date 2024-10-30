@@ -72,12 +72,13 @@ h3{
   padding: 2em;
   background-color: #241f7C;
   text-align: center;
-  
+  height: auto;
   border-bottom-left-radius: 1em;
   border-bottom-right-radius: 1em;
   border-color: #241f7C;
 }
 
 .video {
-width:100%;
+  width: 50%;
+  width: 30em;
 }
