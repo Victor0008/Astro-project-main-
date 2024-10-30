@@ -24,6 +24,7 @@ header {
   background-color: #280f8f;
   text-align: center;
   padding: 20px;
+  box-shadow: 20em;
 }
 
 main{
@@ -31,7 +32,8 @@ main{
   text-align: center;
   height: 80em;
   text-align: justify;
-  padding: 0;
+  margin:0;
+  padding:0;
   background-color: #140f4C;
 }
 
@@ -60,7 +62,18 @@ h3{
 }
 
 .entrar {
- 
+
     border-color: aliceblue;
     border-width: 5px;
+}
+
+.centro {
+  color: #FFEFB7;
+  padding: 2em;
+  background-color: #241f7C;
+  text-align: center;
+  
+  border-bottom-left-radius: 1em;
+  border-bottom-right-radius: 1em;
+  border-color: #241f7C;
 }
